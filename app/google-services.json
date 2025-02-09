@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "246244028033",
+    "firebase_url": "https://dashboardfirebase-efc82-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dashboardfirebase-efc82",
+    "storage_bucket": "dashboardfirebase-efc82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246244028033:android:d16c83d3efc0a8d79ae780",
+        "android_client_info": {
+          "package_name": "com.example.dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK9Xqr2sUx52eHaLuS8FrGJTDSOZrhtio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
